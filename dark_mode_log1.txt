@@ -1,0 +1,46 @@
+٠٢-٢٤ ٢١:٤٠:٠٥.١٧١: V UiModeManager(١٣٠٥): setNightMode : 2, customModeType : -1, by 1305, android.uid.system:1000, android
+٠٢-٢٦ ١٠:٤٤:٥٣.٩٩٥: V UiModeManager(١٢٩٧): updateNightModeFromSettings : 2 userID : 0
+٠٣-٠٣ ٠١:٠١:٥٩.٧٧٥: V UiModeManager(١٣٠٣): updateNightModeFromSettings : 2 userID : 0
+٠٣-٠٦ ٢١:٢١:٠٧.١٢٦: V UiModeManager(١٣٠٠): updateNightModeFromSettings : 2 userID : 0
+٠٣-١١ ١٧:١٨:١٦.٩٩٦: V UiModeManager(١٣٠١): updateNightModeFromSettings : 2 userID : 0
+٠٣-١٢ ١٢:٣٠:٢٤.٠١٠: V UiModeManager(١٣٠١): setNightMode : 1, customModeType : -1, by 1301, android.uid.system:1000, android
+٠٣-١٢ ١٢:٣٠:٣٧.٦١٩: V UiModeManager(١٣٠١): setNightMode : 2, customModeType : -1, by 1301, android.uid.system:1000, android
+٠٣-١٤ ٠١:٤٥:٣٠.٢١٧: V UiModeManager(١٥٩٣): updateNightModeFromSettings : 2 userID : 0
+٠٣-١٦ ٠٠:١٠:٣٣.٩٤٥: V UiModeManager(١٣٠٤): updateNightModeFromSettings : 2 userID : 0
+٠٣-٢١ ٠٧:٠٦:٥٩.٥٥٨: V UiModeManager(١٣٠٤): setNightMode : 1, customModeType : -1, by 1304, android.uid.system:1000, android
+٠٣-٢٤ ١٩:٤٨:٤٠.٨٠٤: V UiModeManager(١٣٠٤): updateNightModeFromSettings : 1 userID : 0
+٠٣-٢٩ ٠٠:٣٤:١٨.٤٨٨: V UiModeManager(١٥٨٨): updateNightModeFromSettings : 1 userID : 0
+٠٣-٢٩ ٠١:١٩:٠٦.١٤٦: V UiModeManager(١٣٠٣): updateNightModeFromSettings : 1 userID : 0
+٠٣-٣٠ ٠٠:٣٠:٥٥.٦٤٧: V UiModeManager(١٣٠٣): setNightMode : 2, customModeType : -1, by 1303, android.uid.system:1000, android
+٠٤-٠٣ ٠٠:١٦:٤٣.٨٧١: V UiModeManager(١٦٣٧): updateNightModeFromSettings : 2 userID : 0
+٠٤-٠٣ ٠٠:١٩:١٠.٨٠٦: V UiModeManager(١٣٠٤): updateNightModeFromSettings : 2 userID : 0
+٠٤-٠٣ ٠٠:٢٣:١٠.٣٣٥: V UiModeManager(١٣٠٤): updateNightModeFromSettings : 2 userID : 0
+٠٤-٠٣ ٠٠:٢٤:٥٣.٨٧٥: V UiModeManager(١٢٩٨): updateNightModeFromSettings : 2 userID : 0
+٠٤-٠٣ ٠٠:٢٨:٣٩.٥٥٤: V UiModeManager(١٣٠٣): updateNightModeFromSettings : 2 userID : 0
+٠٤-٠٣ ٠٠:٣١:٠٣.٠٩١: V UiModeManager(١٢٩٧): updateNightModeFromSettings : 2 userID : 0
+٠٤-٠٣ ٠٠:٣٣:٠٠.٦٧٠: V UiModeManager(١٣٠١): updateNightModeFromSettings : 2 userID : 0
+٠٤-٠٣ ٠٠:٣٤:٥٩.٨٧٦: V UiModeManager(١٣٠١): updateNightModeFromSettings : 2 userID : 0
+٠٤-٠٣ ٠٠:٥٢:٣٦.٨٩٠: V UiModeManager(١٣٠٣): updateNightModeFromSettings : 2 userID : 0
+٠٤-٠٣ ٠١:٢٢:١٤.٩٤٣: V UiModeManager(١٣٠٣): setNightMode : 1, customModeType : -1, by 1303, android.uid.system:1000, android
+٠٤-٠٣ ٠١:٢٣:١٤.٩٤٨: V UiModeManager(١٢٩٦): updateNightModeFromSettings : 1 userID : 0
+٠٤-٠٥ ٠٠:٤٠:٣٣.٥٧٥: V UiModeManager(١٣٠٠): updateNightModeFromSettings : 1 userID : 0
+٠٤-٠٦ ٢٣:٤٧:١٣.١٢٥: V UiModeManager(١٣٠٤): updateNightModeFromSettings : 1 userID : 0
+٠٤-٠٦ ٢٣:٤٩:٤٠.٢٧٠: V UiModeManager(١٣٠١): updateNightModeFromSettings : 1 userID : 0
+٠٤-٠٦ ٢٣:٥١:١٧.١٥١: V UiModeManager(١٣٠٣): updateNightModeFromSettings : 1 userID : 0
+٠٤-٠٨ ٢٢:٥٣:٢٠.٧٤٢: V UiModeManager(١٣٠٣): updateNightModeFromSettings : 1 userID : 0
+٠٤-٠٨ ٢٢:٥٦:١٦.٤٢٩: V UiModeManager(١٣٠٤): updateNightModeFromSettings : 1 userID : 0
+٠٤-٠٩ ١٤:١٦:٥٧.٢٠١: V UiModeManager(١٢٩٥): updateNightModeFromSettings : 1 userID : 0
+٠٤-١٠ ٠٩:٠٢:٣٧.٥٦٢: V UiModeManager(١٣٠٢): updateNightModeFromSettings : 1 userID : 0
+٠٤-١٠ ١٨:٢٦:٠٤.٥٨٩: V UiModeManager(١٣٠٨): updateNightModeFromSettings : 1 userID : 0
+٠٤-١١ ٢٠:٠٥:٢٣.٣٣٠: V UiModeManager(١٣٠٥): updateNightModeFromSettings : 1 userID : 0
+٠٤-١٦ ١٣:٣٣:١٠.٤٦٧: V UiModeManager(١٣١٠): updateNightModeFromSettings : 1 userID : 0
+٠٤-٢٣ ٠٣:٥٦:٤٩.٦٩١: V UiModeManager(٢٣٠١٦): updateNightModeFromSettings : 1 userID : 0
+٠٤-٢٣ ١٥:٥٨:٥٩.٩٢٧: V UiModeManager(١٣٠٨): updateNightModeFromSettings : 1 userID : 0
+٠٤-٢٦ ٠٤:٤٤:٥٧.٦٠٩: V UiModeManager(١٥١٦١): updateNightModeFromSettings : 1 userID : 0
+٠٤-٢٦ ١٤:١٧:١١.٧١٩: V UiModeManager(١٥١٦١): setNightMode : 2, customModeType : -1, by 15161, android.uid.system:1000, android
+٠٤-٣٠ ٢٣:٠٧:٤٨.٣١١: V UiModeManager(١٦٢٨): updateNightModeFromSettings : 2 userID : 0
+٠٥-٠١ ٢٢:٣٦:٥٠.٤٩٨: V UiModeManager(١٣٠٦): updateNightModeFromSettings : 2 userID : 0
+٠٥-٠٢ ١٤:٢٩:٠٧.٤٥٩: V UiModeManager(١٣٠٥): updateNightModeFromSettings : 2 userID : 0
+٠٥-٠٢ ١٥:٠٤:٤٧.١٧٩: V UiModeManager(١٣٠٥): setNightMode : 1, customModeType : -1, by 1305, android.uid.system:1000, android
+٠٥-٠٢ ١٥:٠٤:٥٤.٤٣٢: V UiModeManager(١٣٠٥): setNightMode : 2, customModeType : -1, by 1305, android.uid.system:1000, android
+٠٥-٠٢ ١٥:٠٤:٥٩.٨٣٨: V UiModeManager(١٣٠٥): setNightMode : 1, customModeType : -1, by 1305, android.uid.system:1000, android
